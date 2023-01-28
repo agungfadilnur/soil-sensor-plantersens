@@ -1,0 +1,11 @@
+Keterangan:
+R1: 1M
+R2: 10K
+R3: 330R
+R4: 1.6K
+C1: 1uF
+C2: 10nF
+C3: 100nF
+C4: 470pF
+IC: NE555
+D1: 1N4148
